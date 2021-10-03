@@ -1,5 +1,5 @@
  Hi, I'm Melissa 👩🏻‍💻 </br>
- I am studying Front-end web development 💻
+ I'm studying Front-end web development 💻
 
 
 <div align="center">
