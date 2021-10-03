@@ -1,4 +1,5 @@
- Hi, i'm Melissa 👩🏻‍💻
+ Hi, I'm Melissa 👩🏻‍💻
+ I am studying Front-end web development 💻
 
 
 <div align="center">
