@@ -4,8 +4,8 @@
  
 ```javascript 
  const hobbies = {[
- "Watching serie",
- "Playing RPG",
+ "Watch a serie",
+ "Play RPG",
  "Read a book"]}
  ```
 
