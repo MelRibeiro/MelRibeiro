@@ -2,7 +2,7 @@
 <p>💻 I'm studying Front-end web development </p>
 <p>🎇 I live in Brazil </p>
  <p>Pronouns: she || her </p>
- 
+    
 ```javascript 
  const hobbies = {[
  "Watch a serie",
