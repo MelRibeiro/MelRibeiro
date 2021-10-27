@@ -1,5 +1,6 @@
  <h1>Hello There, I'm Melissa! <img height="40" width="40"src="http://pa1.narvii.com/7670/1e0a280c8906da5c62ef467e9c83c96608715a8cr1-372-364_00.gif"></h1> 
-<p> I'm studying Front-end web development 💻</p>
+<p>💻 I'm studying Front-end web development </p>
+<p> 🇧🇷 I live in Brazil </p>
  <p>Pronouns: she || her </p>
  
 ```javascript 
