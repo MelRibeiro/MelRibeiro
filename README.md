@@ -4,10 +4,10 @@
  <p>Pronouns: she || her </p>
     
 ```javascript 
- const hobbies = {[
+ const hobbies = [
  "Watch a serie",
  "Play RPG",
- "Read a book"]}
+ "Read a book]
  ```
 
  
