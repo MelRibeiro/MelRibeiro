@@ -7,7 +7,8 @@
  const hobbies = [
  "Watch a serie",
  "Play RPG",
- "Read a book]
+ "Read a book,
+ ]
  ```
 
  
