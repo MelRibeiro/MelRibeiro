@@ -6,7 +6,8 @@
 ```javascript 
  const hobbies = [
  "Watch a serie", 
- "Sleep",
+"Cook",
+"Listen to music"
  "Read a book"]
  ```
 
