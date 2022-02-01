@@ -10,7 +10,7 @@
 ### I'm a tech enthusiast
 
 - 😃 I'm a frontend focused developer
-- 📖 I'm currently studying HTML, CSS, JavaScrip´t and React.js
+- 📖 I'm currently studying HTML, CSS, JavaScript and React.js
 - 🏢 I'm currently unemployed and available for hire
 - 👩 Pronoums: she/her
 
